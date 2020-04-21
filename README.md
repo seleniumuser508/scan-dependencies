@@ -1,1 +1,3 @@
 # scan-dependencies
+
+dependencies tree
